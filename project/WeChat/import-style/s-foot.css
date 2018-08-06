@@ -1,0 +1,46 @@
+#s-foot{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+.foot{
+    width: 80px;
+    height: 40px;
+    /*border: 1px solid white;*/
+}
+#f1{
+    background-repeat: no-repeat;
+    background-image: url("../img/jiantou.svg");
+    margin-left: 10px;
+    margin-top: -5px;
+
+
+}
+#f2 {
+    background-repeat: no-repeat;
+    background-image: url("../img/sanjiao.svg");
+
+}
+#f3{
+    background-repeat: no-repeat;
+    background-image: url("../img/yuanquan.svg");
+    margin-top: 10px;
+
+}
+#f4{
+    background-repeat: no-repeat;
+    background-image: url("../img/fangxing.svg");
+
+}
+#f5{
+    width: 30px;
+    height: 40px;
+}
+#f1:visited{
+
+}
+

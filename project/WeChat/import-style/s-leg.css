@@ -1,0 +1,213 @@
+#s-leg{
+    width: 100%;
+    height: 70px;
+    /*border: 1px solid brown;*/
+    background-color: white;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.leg{
+    width: 70px;
+    height: 65px;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.xx{
+    width: 60px;
+    height: 50px;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.xxhz1{
+    width: 35px;
+    height: 35px;
+    /*border: 1px solid;*/
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+#weixin{
+    background-repeat: no-repeat;
+    background-image: url("../img/xiaoxi.svg");
+}
+#xxhz2{
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: red;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    color: white;
+    float: left;
+}
+.xb{
+    width: 60px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8a8a8a;
+
+}
+#tongxunlu{
+    background-image: url("../img/tongxunlu.svg");
+    background-repeat: no-repeat;
+}
+#zhinanzhen{
+    background-repeat: no-repeat;
+    background-image: url("../img/zhinanzhen.svg");
+}
+#wo{
+    background-repeat: no-repeat;
+    background-image: url("../img/geren.svg");
+    margin-right: 3px;
+}
+#cl {
+    color: #1afa29;
+}
+.xhx{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.leg-s{*/
+    /*width: 150px;*/
+    /*height: 130px;*/
+    /*!*background-color: white;*!*/
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*margin-top: 10px;*/
+
+/*}*/
+/*#leg-s11{*/
+    /*width: 130px;*/
+    /*height: 100px;*/
+    /*display: flex;*/
+    /*flex-flow: row;*/
+    /*margin-left: 35px;*/
+/*}*/
+/*#leg-gs1{*/
+    /*width: 80px;*/
+    /*height: 80px;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url("../img/xiaoxi.svg");*/
+/*}*/
+/*#leg-gs2 {*/
+    /*width: 40px;*/
+    /*height: 40px;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*border-radius: 50%;*/
+    /*background-color: red;*/
+    /*color: white;*/
+    /*font-size: 30px;*/
+    /*font-family: 华文楷体;*/
+    /*margin-left: -22px;*/
+    /*margin-top: 10px;*/
+/*}*/
+/*#leg-s12{*/
+    /*color: #8a8a8a;*/
+    /*font-size: 30px;*/
+    /*margin-left: -3px;*/
+    /*margin-top: -20px;*/
+/*}*/
+/*#leg-s21{*/
+    /*width: 80px;*/
+    /*height: 80px;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url("../img/tongxun.svg");*/
+    /*margin-top: -5px;*/
+/*}*/
+/*#leg-s22{*/
+    /*color: #8a8a8a;*/
+    /*font-size: 30px;*/
+/*}*/
+/*#leg-s31{*/
+    /*width: 80px;*/
+    /*height: 80px;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url("../img/faxian.svg");*/
+    /*margin-top: -5px;*/
+/*}*/
+/*#leg-s32{*/
+    /*color: #8a8a8a;*/
+    /*font-size: 30px;*/
+/*}*/
+/*#leg-s41{*/
+    /*width: 80px;*/
+    /*height: 80px;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url("../img/wo.svg");*/
+    /*margin-top: -5px;*/
+/*}*/
+/*#leg-s42 {*/
+    /*color: #8a8a8a;*/
+    /*font-size: 30px;*/
+/*}*/
+
+
